@@ -1,0 +1,191 @@
+{
+  "project_info": {
+    "project_number": "322453782958",
+    "project_id": "nep-tv-d5ebc",
+    "storage_bucket": "nep-tv-d5ebc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322453782958:android:2187be13e8beea9894c83f",
+        "android_client_info": {
+          "package_name": "com.app.live_tv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322453782958-ug0ns2tcp3m7e380g0vsvneqrojifb17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.live_tv",
+            "certificate_hash": "a60ca8fd1c0d429016503e96c120828f6e8d2274"
+          }
+        },
+        {
+          "client_id": "322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV3OKI4ulwOXfgGr-g4AKizVQe6KMHXpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8412258809392369~7630697523"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322453782958:android:49543c0ff29d671194c83f",
+        "android_client_info": {
+          "package_name": "com.app.nepflix2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322453782958-78g5quvkq2b48aos93esjl856balst3r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.nepflix2",
+            "certificate_hash": "162e93cc300f980df076627837b4c31cca7e3f9f"
+          }
+        },
+        {
+          "client_id": "322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV3OKI4ulwOXfgGr-g4AKizVQe6KMHXpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8412258809392369~7033235066"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322453782958:android:eed924b77c9873fc94c83f",
+        "android_client_info": {
+          "package_name": "com.app.nepfreevpn2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322453782958-f83hijd0om6fv3eoesj07skf237k6o1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.nepfreevpn2",
+            "certificate_hash": "162e93cc300f980df076627837b4c31cca7e3f9f"
+          }
+        },
+        {
+          "client_id": "322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV3OKI4ulwOXfgGr-g4AKizVQe6KMHXpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8412258809392369~7925329115"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322453782958:android:eacbb5f78248e9ab94c83f",
+        "android_client_info": {
+          "package_name": "com.app.neptv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322453782958-qmsg711bq7p11cf1bq4ko3q1j2h7e84d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.neptv",
+            "certificate_hash": "a60ca8fd1c0d429016503e96c120828f6e8d2274"
+          }
+        },
+        {
+          "client_id": "322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV3OKI4ulwOXfgGr-g4AKizVQe6KMHXpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8412258809392369~5988014268"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322453782958:android:f9c188382551acd094c83f",
+        "android_client_info": {
+          "package_name": "com.app.nepvpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV3OKI4ulwOXfgGr-g4AKizVQe6KMHXpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

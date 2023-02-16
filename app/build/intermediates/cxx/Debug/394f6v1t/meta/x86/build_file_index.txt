@@ -1,0 +1,1 @@
+D:\apps\dooo\Dooo\app\src\main\jni\CMakeLists.txt

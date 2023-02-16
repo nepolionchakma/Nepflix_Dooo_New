@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.dooo.android.app-mergeDebugResources-92:/values-v26/values-v26.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\tangc\\.gradle\\caches\\transforms-3\\56bca090ec54d4237a58c01cd137e88e\\transformed\\appcompat-1.5.1\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,3,4,8,12,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,130,217,381,557,796",
+                        "endLines": "2,3,7,11,15,16",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "125,212,376,552,791,884"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,17,21,25",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "589,664,751,915,1091,1330",
+                        "endLines": "11,12,16,20,24,25",
+                        "endColumns": "74,86,12,12,12,92",
+                        "endOffsets": "659,746,910,1086,1325,1418"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\tangc\\.gradle\\caches\\transforms-3\\c0d08e5996c2823a364a016edc47ebe3\\transformed\\jetified-android-sdk-0.6.3\\res\\values-v26\\values-v26.xml",
+                    "from": {
+                        "startLines": "2,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,589",
+                        "endLines": "10,20",
+                        "endColumns": "12,12",
+                        "endOffsets": "584,1197"
+                    },
+                    "to": {
+                        "startLines": "2,26",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,1423",
+                        "endLines": "10,35",
+                        "endColumns": "12,12",
+                        "endOffsets": "584,2031"
+                    }
+                }
+            ]
+        }
+    ]
+}

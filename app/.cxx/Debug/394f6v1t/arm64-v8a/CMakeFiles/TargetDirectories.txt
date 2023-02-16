@@ -1,0 +1,3 @@
+D:/apps/dooo/Dooo/app/.cxx/Debug/394f6v1t/arm64-v8a/CMakeFiles/app_config.dir
+D:/apps/dooo/Dooo/app/.cxx/Debug/394f6v1t/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/apps/dooo/Dooo/app/.cxx/Debug/394f6v1t/arm64-v8a/CMakeFiles/rebuild_cache.dir

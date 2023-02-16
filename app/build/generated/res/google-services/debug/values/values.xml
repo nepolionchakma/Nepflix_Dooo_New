@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">322453782958-flrvcrtdak0q9i29l7h1hr90u5v68mnj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">322453782958</string>
+    <string name="google_api_key" translatable="false">AIzaSyBV3OKI4ulwOXfgGr-g4AKizVQe6KMHXpU</string>
+    <string name="google_app_id" translatable="false">1:322453782958:android:2187be13e8beea9894c83f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBV3OKI4ulwOXfgGr-g4AKizVQe6KMHXpU</string>
+    <string name="google_storage_bucket" translatable="false">nep-tv-d5ebc.appspot.com</string>
+    <string name="project_id" translatable="false">nep-tv-d5ebc</string>
+</resources>

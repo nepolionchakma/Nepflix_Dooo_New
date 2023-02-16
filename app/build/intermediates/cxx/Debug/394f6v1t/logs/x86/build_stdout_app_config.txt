@@ -1,0 +1,3 @@
+ninja: Entering directory `D:\apps\dooo\Dooo\app\.cxx\Debug\394f6v1t\x86'
+[1/2] Building CXX object CMakeFiles/app_config.dir/app_config.cpp.o
+[2/2] Linking CXX shared library D:\apps\dooo\Dooo\app\build\intermediates\cxx\Debug\394f6v1t\obj\x86\libapp_config.so
